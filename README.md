@@ -1,7 +1,7 @@
 # CS235_Data_Mining
 
 ## Crawler and Hadoop
-This project involves finding the location of conferences in data mining, machine learning, databases, and AI. This data is then cleaned and analyzed for visualization purposes. There are two parts for this project
+This project involves finding the location of conferences in data mining, machine learning, databases, and AI. This data is then cleaned and analyzed for visualization purposes. There are two parts for this project.
 
 ### Part 1
 Build a crawler to crawl WikiCFP for the conferences and location every year. From this data, we use OpenRefine to clean the data obtained. This part is detailed in `report1.pdf` with the crawler in `Scraper.java`, the resulting crawled data in the four `.txt` files indicating the conference type, and the cleaned data in `final_data.tsv`.
