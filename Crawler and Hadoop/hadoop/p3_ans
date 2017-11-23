@@ -1,0 +1,909 @@
+AAAI	New  
+AAIA	Prague  
+AAMAS	Stockholm  
+ACCV	Taipei  
+ACIIDS	Dong Kuala Kaohsiung  
+ACIS	Krabi  
+ACL	Melbourne Dubai  
+ACML	Seoul Hamilton  
+ACMLC	Singapore  
+ACTIVE	San  
+ACUMEN	ICDM  
+ADBIS	Nicosia Poitier Vienna  
+ADC	Melbourne Brisbane  
+ADCOM	Dubai  
+ADMA	Singapore Gold  
+ADMI	Sao  
+ADS	Kanazawa  
+AECIA	Marrakech  
+AECM	Munich  
+AFRICOMM	Ouagadougou  
+AGI	Melbourne  
+AHS	Caltech  
+AI	Chennai Hobart  
+AIAALit	Bari  
+AIAAT	Hawaii  
+AIACT	Wuhan  
+AIAI	Rhodes  
+AIAP	Zurich Vienna  
+AIAPP	Geneva  
+AIC	Larnaca  
+AICPDES	Porto  
+AICS	Dublin  
+AIED	Wuhan  
+AIFU	Dubai  
+AIFZ	Dubai  
+AIHealth	Funchal  
+AIIA	Bari  
+AIKED	Cambridge  
+AIMA	Prague  
+AIMS	Seattle Honolulu  
+AIMSA	Bangalore  
+AIPR	Washington  
+AIRIM	Prague  
+AISB	Bath  
+AISI	Cairo  
+AISP	Shiraz  
+AIST	Moscow  
+AISTATS	Fort Playa  
+AIVR	Bangkok  
+AKG	Tokyo  
+AKTS	Druskininkai  
+ALT	Lanzarote  
+ALatIKNOW	Graz  
+AMBN	Kyoto  
+AMECTADA	Sao  
+AMLTA	Cairo  
+AMW	Ouro PueblaCholula  
+APCCM	Adelaide Auckland  
+APDM	Melbourne  
+APWeb	Suzhou Shanghai  
+ARCS	Jaipur  
+ARIA	Dubai  
+ARIN	Dubai  
+ASC	Shanghai Jeju  
+ASIR	Prague  
+ASRU	Okinawa  
+ATGRC	Munich  
+AWRL	Hamilton  
+AgTAmI	Bucharest  
+Algorithmic	Munich  
+Archiving	Riga  
+AusDM	Melbourne  
+AutoML	Sydney  
+BAFI	Santiago  
+BASC	San  
+BBH	Washington  
+BCB	Boston  
+BCI	Skopje  
+BDA	Hyderabad  
+BDAS	Poznan Ustron Ustron Ustron Ustron Ustron Ustron  
+BDASD	Warsaw  
+BDCAT	Austin  
+BDI	Kuala  
+BDIOT	London  
+BDQM	Dallas  
+BDSAV	Washington  
+BDTA	Seoul  
+BDTL	Boston  
+BDVA	Adelaide  
+BEWEB	Genoa  
+BFAL	Patras  
+BI	Beijing  
+BIBM	Kansas  
+BIGDATA	Istanbul  
+BIGProv	Genova  
+BIOKDD	Halifax  
+BIRTE	Trento Istanbul Hangzhou  
+BNCOD	Oxford  
+BOCIA	Xiamen  
+BOOM	Melbourne  
+BRACIS	Uberlandia  
+BRAIN	Bacau  
+BTW	Stuttgart  
+BUDA	Snowbird  
+Balisage	Montreal  
+Baltic	Vilnius Riga Tallinn  
+BiDaDA	Dallas  
+BiDaTA	Genoa  
+Big	Boston Alicante Washington  
+BigDAW	Siena  
+BigDF	Hyderabad  
+BigData	Mevlana Seattle  
+BigDataBMLIT	Washington  
+BigDataService	Bamberg  
+BigDataSmartEnergy	Shanghai  
+BigGraphs	Washington  
+BigNet	Perth  
+BigScholar	Perth  
+BigSys	Stuttgart  
+Bigcomp	Shanghai  
+BioASQ	Part  
+BioS	Chennai  
+Biometrics	Barcelona Springer  
+CAIA	Berlin  
+CAIIT	Hong  
+CAnimAI	Arras  
+CBig	Pittsburgh  
+CCEAI	Boracay  
+CCIA	Universitat  
+CCIS	Hangzhou  
+CCKS	Chengdu  
+CCML	Tianjin  
+CCSEA	Melbourne  
+CCSEIT	Zurich Vienna  
+CD	San Halifax  
+CDMAKE	Reggio  
+CDMW	Maui  
+CEC	Donostia  
+CECIIS	Varazdin  
+CEEC	Colchester  
+CIAALS	Porto  
+CIARP	Valparaiso  
+CICCI	La  
+CICLOPS	Melbourne  
+CIDR	Asilomar  
+CIESC	Naiguat  
+CIG	Maastricht  
+CIIS	Brunei  
+CIKM	Singapore Glasgow Maui  
+CILC	Naples  
+CIPI	Cuba  
+CISC	Portland  
+CISDA	Honolulu  
+CISIM	Venice  
+CITI	Guayaquil  
+CLEI	Naiguat  
+CLOSER	Funchal  
+CLTM	Naiguat  
+CMC	Sydney  
+CML	Barcelona  
+CMS	Milan  
+CMVIT	Hong  
+CNIoT	Brindisi  
+CNSA	Zurich  
+COCOSDA	Hsinchu  
+COLT	Amsterdam Stockholm  
+COMAD	Ahmedabad Pune Hyderabad Pune Bangalore  
+COMLACO	Melbourne  
+COMOREA	Athens  
+COMPRAIL	Madrid  
+CORE	Mexico  
+COREDEMA	Melbourne  
+CORES	Polanica  
+COSIT	Santa  
+CPAIOR	Delft  
+CPS	Craiova  
+CPSCom	Chengdu  
+CRC	Chengdu  
+CRoNe	Valparaiso  
+CSAI	Kalbis  
+CSBio	NhaTrang  
+CSE	Aalborg Paphos  
+CSEN	Vienna  
+CSI	Shiraz  
+CSITEC	Dubai  
+CSITY	Dubai  
+CSPA	MALAYSIA  
+CSPRED	Raleigh  
+CST	Dubai Sydney  
+CSTSC	Gran  
+CSTY	Chennai  
+CVPR	Salt  
+CYBI	Geneva  
+Canadian	Lister  
+CloudDB	Chicago Glasgow San Maui  
+CloudI	Riva  
+CoRob	Autonomous  
+CoSIT	Geneva  
+CogArch	Xian  
+CyberC	Nanjing Chengdu  
+CyberSafety	Perth Indianapolis  
+DAB	Haifa Beijing  
+DADE	Gdynia  
+DALI	Toulouse  
+DAPHNE	Brussels  
+DAPS	New Barcelona  
+DARE	Skopje  
+DASFAA	Suzhou Hanoi Wuhan  
+DATA	Madrid Vienna Rome  
+DAVA	Indianapolis  
+DBCrowd	Riva  
+DBDBD	Antwerp University  
+DBKDA	Reunion  
+DBLM	Toulouse  
+DBPL	Trento Seattle  
+DBRank	Istanbul Seattle  
+DBSocial	New Scottsdale Athens  
+DBTest	Scottsdale Athens  
+DCAI	Toledo Porto  
+DCIRS	Trieste  
+DCLOUD	Hong  
+DCNET	Rome  
+DDDM	Vancouver  
+DDGD	Tampere  
+DEA	Universiti  
+DEBS	Barcelona  
+DEOS	Seoul Oxford  
+DEW	Poznan  
+DEXA	Prague Toulouse  
+DILS	Luxembourg Lisbon Montreal  
+DIM	Pittsburgh San San Las  
+DIPDMWC	Universitas Moscow  
+DKMP	Dubai  
+DLRS	Boston  
+DLS	San  
+DMA	Geneva  
+DMAP	Dubai  
+DMBD	Fukuoka  
+DMC	Magdeburg Washington Chicago  
+DMCIT	Shanghai  
+DMCS	New  
+DMDB	Vienna  
+DMIP	New  
+DMIoT	Barcelona  
+DMKD	Beijing  
+DMMOOC	Suzhou  
+DMOG	Texas  
+DMS	Dubai Sydney Barcelona Zurich  
+DNIS	University University AizuWakamatsu  
+DOLAP	Burlingame Glasgow  
+DRCN	Orange  
+DS	Kyoto Bari  
+DSA	New  
+DSAA	Montreal Tokyo Paris Montreal  
+DSBDA	Barcelona  
+DSCI	Dong San  
+DSHCM	New  
+DSMM	Snowbird  
+DSS	Augsburg  
+DSSD	Tokyo  
+DT	Dortmund  
+DTMN	Dubai  
+DTTA	Coimbra  
+DTWSM	Helsinki  
+DX	Brescia  
+DaEng	Kuala  
+DaMEN	Sydney  
+DaMIS	Lund London  
+DaMNet	Barcelona  
+DaMoN	Snowbird New Athens  
+DaWaK	Lyon Valencia Munich Prague Vienna Toulouse  
+DanaC	Songbird  
+DiPP	Veliko  
+DocEng	Mountain  
+DyNetMM	New  
+EACL	Valencia  
+EAIS	island  
+EANN	Athens Aberdeen  
+EASL	Valencia  
+ECAI	Montpellier The  
+ECCV	Munich  
+ECDM	Florence  
+ECDMO	Krakow  
+ECMLPKDD	Riva  
+ECSA	Online  
+EDB	Seoul Incheon  
+EDBT	Vienna Genoa  
+EDBTICDT	Athens Athens  
+EDC	Bangkok  
+EEML	Dresden Moscow  
+ELKR	Toulouse  
+EMNLP	Copenhagen  
+EMSA	Melbourne  
+EPIA	Porto  
+ER	Gifu  
+ESAIR	Melbourne  
+ESANN	Bruges Bruges  
+ESWC	Portoroz  
+EWRL	Barcelona  
+EXPLORE	Sao  
+EdRecSys	Omaha  
+Electronic	Burlingame  
+EmbeddedMobile	NIAGARA  
+EmotionAware	Athens  
+EnCHIReS	Lisbon  
+EnDM	Athens  
+EnviroInfo	Oldenburg  
+EuroGP	Amsterdam  
+EvoMUSART	Amsterdam  
+FADS	Xian  
+FASOMA	Naples  
+FAT	New  
+FDM	Chemnitz  
+FDML	Kaohsiung  
+FDSE	Ho  
+FICC	Singapore  
+FILM	Barcelona  
+FLAIRS	Melbourne Marco  
+FMBBS	Shenzhen  
+FRUCT	Petrozavodsk Helsinki St  
+FTC	Vancouver  
+FUSION	Xian  
+FUZZ	Naples  
+FashionMLKDD	Halifax  
+FedCSIS	Prague  
+FiCloud	Prague  
+FlashDB	Busan  
+FoIKS	Budapest Bordeaux  
+GCAI	Miami Berlin  
+GDM	Brisbane Washington  
+GECCO	Berlin  
+GECCOsws	Berlin  
+GID	Ohrid Vienna  
+GISCUP	Los  
+GOODTECHS	Venice  
+GRADES	New  
+GRAIL	Quebec  
+GTM	Atlanta  
+GeoDBIS	Vienna  
+GlobalSIP	Montreal  
+Globe	Toulouse  
+GraphQ	Athens Genoa  
+GraphTA	Barcelona  
+GreenCom	Chengdu  
+GvDB	NrtenHardenberg  
+HAIS	Logroo  
+HDMM	San  
+HDMS	Chania Athens  
+HFR	Napoli  
+HIS	Beijing  
+HPCAC	Leon  
+HPCDB	Seattle  
+HPGDML	New  
+HPSC	Shenzhen  
+HSI	Ulsan  
+HardBD	Macau  
+HealTech	Nice  
+HeteroNAM	Los  
+IALP	Singapore  
+IASIM	Rome  
+ICAART	Funchal  
+ICACCP	Gangtok  
+ICACNI	Goa  
+ICACR	Wuhan  
+ICACS	Jeju  
+ICACSIS	Bali Malang  
+ICAIL	London  
+ICAIR	Prague  
+ICAISC	Zakopane  
+ICAISE	Chengdu  
+ICAITA	Sydney  
+ICAMS	Torino  
+ICANN	Alghero  
+ICAPM	Phuket  
+ICAVE	Singapore  
+ICBBB	Tokyo  
+ICBBE	Seoul  
+ICBBT	Lisbon  
+ICBCB	Chengdu  
+ICBCT	Hanoi  
+ICBDA	Shanghai  
+ICBDC	Shenzhen  
+ICBDE	Honolulu  
+ICBDM	Macau  
+ICBDR	Osaka  
+ICBDSC	Casablanca  
+ICBDT	Hangzhou  
+ICBEA	Hong  
+ICBEB	Bangkok  
+ICBEF	Seoul  
+ICBNA	Tunis  
+ICBRA	Barcelona  
+ICBSB	AUT  
+ICCAC	Tucson  
+ICCAE	Brisbane  
+ICCAI	Chengdu  
+ICCAIRO	Prague  
+ICCAR	Auckland Nagoya  
+ICCASA	Tam  
+ICCBB	New  
+ICCBDC	London  
+ICCBR	Trondheim  
+ICCCB	Barcelona  
+ICCCBDA	Chengdu  
+ICCCS	Nagoya  
+ICCDA	DeKalbILUSA  
+ICCDE	Shanghai  
+ICCIA	Beijing  
+ICCIDE	Vijayawada  
+ICCIDM	Odisha  
+ICCIDS	Chennai  
+ICCIP	Tokyo  
+ICCMA	Edmonton  
+ICCMIT	Poland  
+ICCMS	Sydney  
+ICCRE	Nagoya  
+ICCRI	Kuala  
+ICCSAMA	Humboldt  
+ICCSE	Tsinghua  
+ICCSP	Guiyang  
+ICCSSE	Wuhan  
+ICCST	Madrid  
+ICCTD	Istanbul  
+ICCTIM	Metropolitan  
+ICCTS	Singapore  
+ICCV	Venice  
+ICDE	San Brisbane Chicago Helsinki  
+ICDEL	Beijing  
+ICDEPI	Nanyang  
+ICDES	Kortrijk  
+ICDIM	Fukuoka Islamabad Porto  
+ICDIP	Shanghai  
+ICDIS	South  
+ICDM	New Shenzhen Atlantic Barcelona New  
+ICDME	Guangzhou  
+ICDPA	Guangzhou  
+ICDPR	Boracay  
+ICDSE	Kochi  
+ICDT	Berlin Genoa  
+ICEB	Rome  
+ICECIT	Tumkur  
+ICFCC	Nagoya Singapore  
+ICFIP	Barcelona  
+ICGDA	Prague  
+ICGHIT	Chiang  
+ICIA	Lodz  
+ICIAI	Shanghai  
+ICIAS	Singapore  
+ICIBB	Bangkok  
+ICICA	Sydney  
+ICICC	Manila  
+ICICS	Amman  
+ICICT	India DeKalbILUSA  
+ICIGP	Hong  
+ICIIC	Singapore  
+ICIII	Krakow  
+ICIIP	London Guilin  
+ICIIT	Hanoi  
+ICIKM	Bali  
+ICINCO	Madrid  
+ICININFO	Athens  
+ICINT	Osaka  
+ICIS	Shanghai Kochi  
+ICISDM	Florida  
+ICISIP	Hawaii Matsue  
+ICISS	Jeju  
+ICIST	Dubai  
+ICITCS	Seoul  
+ICITDA	Yogyakarta  
+ICITE	Singapore  
+ICKD	Penang  
+ICKEA	London Moscow  
+ICKSE	Istanbul  
+ICLR	Palais Vancouver  
+ICMAI	Chengdu  
+ICMAM	Phuket  
+ICMCE	St  
+ICMCR	Ho  
+ICMCT	Singapore  
+ICME	San  
+ICMEAE	Nagoya  
+ICMERR	Paris  
+ICML	Sydney  
+ICMLA	Cancun Los  
+ICMLC	Macau  
+ICMLSC	Phuoc  
+ICMLT	Jinan  
+ICMM	Phuket  
+ICMME	Kuala  
+ICMMM	Atlanta  
+ICMR	Bucharest  
+ICMRA	Hefei  
+ICMRE	Valenciennes  
+ICMSC	Moscow St  
+ICMSCE	Amsterdam  
+ICMSR	Singapore  
+ICMV	Vienna  
+ICMVA	Singapore  
+ICOAI	Florence  
+ICOAR	Maldives  
+ICOAS	Phnom  
+ICOCB	Jakarta  
+ICON	Jadavpur  
+ICONIP	Guangzhou  
+ICPET	Deir  
+ICPR	Beijing  
+ICPRAI	Montreal  
+ICPRAM	Porto Funchal  
+ICRACA	Pune  
+ICRAE	Shanghai  
+ICRAI	Shanghai  
+ICRCA	Kitakyushu  
+ICRIC	Nagoya  
+ICRIS	Amsterdam  
+ICRMV	Kitakyushu  
+ICROM	Hong  
+ICSC	Laguna  
+ICSCA	Kuantan  
+ICSCE	Jaipur  
+ICSGSC	Singapore  
+ICSN	Kuala  
+ICSPS	AUT  
+ICSR	Tsukuba  
+ICSRT	Chengdu  
+ICSS	Sydney  
+ICT	Bangkok  
+ICTCC	Tam  
+ICTSeHealth	Heraklion  
+ICTTE	Hong  
+ICUASA	Shanghai  
+ICVIP	Singapore  
+ICWS	Santa  
+IDA	Stockholm London  
+IDAM	Kaohsiung  
+IDAP	Malatya  
+IDAR	Athens  
+IDEA	San Halifax  
+IDEAL	Guilin Yangzhou  
+IDEAS	Barcelona Bristol Lisbon Prague  
+IE	Seoul  
+IECON	Beijing  
+IEMIS	Kolkata  
+IES	Hanoi  
+IIP	Melbourne  
+IISA	Cyprus  
+IJCAI	Stockholm Melbourne  
+IJCNN	Anchorage  
+IJCRS	Santiago  
+IJISP	Changa  
+ILP	Orlans  
+IMDM	Koblenz  
+IML	Liverpool  
+IMMM	Venice  
+INCISCOS	Quito Quito  
+INDIA	Vietnam  
+INISTA	Thessaloniki  
+INITAERFAISummerSchoolML	Benicssim  
+INNSBDDL	Bali  
+INTECH	Rabat  
+IPMU	Cadiz  
+IPTA	Montreal  
+IREHI	LomTogo  
+IROS	Vancouver  
+IRRATIONAL	Barcelona  
+IS	Ulyanovsk  
+ISAIR	Kitakyushu  
+ISASEMAICS	Spokane  
+ISCBI	Olten Dubai  
+ISCI	Penang  
+ISCIA	Melaka  
+ISCMI	Republic Dubai  
+ISCSAI	Shenzhen  
+ISDM	Nice  
+ISDSA	Milan  
+ISI	Beijing  
+ISICS	Merida  
+ISIS	Daegu  
+ISMIS	Warsaw  
+ISMSI	Phuket  
+ISNN	Minsk  
+ISSEA	Druskininkai  
+ISWC	Vienna Sydney  
+ITBAM	Porto  
+ITCCMA	Dubai  
+ITCS	Dubai  
+ITCSE	Zurich  
+ITMLS	Barcelona  
+ITNEC	Chengdu  
+ITNG	Las  
+ITOEC	Chongqing  
+ITPF	MashhadIran  
+ITS	Montreal  
+ITSC	Yokohama  
+IUI	Limassol  
+IUPT	London Hasselt  
+IWAKEHC	Vienna  
+IWBDS	Shanghai  
+IWBIS	Jakarta  
+IWMIL	Milan  
+IWPR	Jinan  
+IWSON	Barcelona  
+IWSPA	Scottsdale  
+Infer	Darmstadt  
+IoA	Sao  
+IoTAAL	Geneva  
+JFPC	Montreuil  
+JISBD	Almera Cadiz A  
+JISIC	Campus  
+JSE	Dubai  
+KACSTIT	Riyadh  
+KALSIMIS	Porto  
+KAM	Lodz  
+KARE	Jaipur  
+KBCOM	Los  
+KCAP	Austin  
+KDD	San Halifax  
+KDWEB	Cagliari  
+KEOD	Paris  
+KES	Marseille Belgrade Vilamoura  
+KESIDT	Gifu  
+KESMDA	York  
+KI	Dortmund  
+LABELS	Quebec  
+LACATODA	Melbourne  
+LAWCN	Porto  
+LDK	GalwayIreland  
+LDM	Hefei  
+LIDTA	Skopje  
+LKE	Puebla  
+LOPAL	Rabat  
+LPAR	Maun  
+LPKM	Kerkenah  
+LS	Massachusetts  
+LWDAKDML	Potsdam  
+LWDM	Athens  
+MACE	Manila  
+MAICS	Fort  
+MALHE	Reggio  
+MAMLAKE	Kanazawa  
+MCSD	Poznan  
+MDDE	Istanbul  
+MDDM	Barcelona  
+MDM	Brisbane Bangalore  
+MDSP	Harbin  
+MECH	Vienna  
+MECN	Dubai  
+MEDI	Poitiers Amantea  
+MEDS	Chennai  
+MENDEL	Brno  
+MESS	TaorminaSicily  
+MHDW	Thessaloniki  
+MIDAS	Riva  
+MIG	Barcelona  
+MIKE	IDRBT  
+MIMIC	Toulouse  
+MIRA	Jaipur  
+MIWAI	Brunei  
+MLDM	New New  
+MLG	San Halifax  
+MLHPC	Denver Salt  
+MLMI	Quebec  
+MLPM	California  
+MLPMEA	Cancun  
+MLRec	Houston  
+MLSA	Riva Skopje  
+MLSB	The  
+MLSCPS	Anaheim  
+MLSP	Roppongi  
+MMM	Bangkok  
+MOCO	th  
+MOD	Volterra  
+MOREBI	Florence  
+MPREF	New  
+MSA	d  
+MUME	Atlanta  
+MVIP	Isfahan  
+MVRD	Venice  
+MWDHealth	Chicago  
+MaLTeSQuE	Klagenfurt  
+MedPRAI	Rabat  
+MiLeTS	Halifax  
+MindCare	Barcelona  
+MobiDE	New Athens Scottsdale  
+NAACL	New  
+NAAD	Arras  
+NAHO	Irvine  
+NATP	Dubai  
+NEDB	Cambridge  
+NIC	Naples  
+NIMD	Rome  
+NIPS	Long Long Long Barcelona Barcelona  
+NISTBigData	Gaithersburg  
+NLDB	Liege  
+NLGDS	Saarbrcken  
+NLP	Dubai  
+NLPCC	Dalian  
+NTIRE	Honolulu Taipei  
+NTMS	Dubai  
+NWCOM	Dubai  
+NeTCoM	Dubai  
+NetCrime	Indianapolis  
+NetSys	Stuttgart  
+NextComp	Mauritius  
+NoCoDA	San  
+NoSQLNet	Munich  
+ODBASE	Amantea Graz  
+ODD	San  
+OrdRing	Bonn  
+PAAMS	Porto  
+PACLING	Yangon  
+PACMA	Trieste  
+PAIS	Genoa Khenchela  
+PAKDD	Jeju Melbourne Tainan  
+PAML	Reggio  
+PAPIs	Boston  
+PBDA	Warsaw  
+PBVS	Honolulu  
+PCNN	Genoa  
+PDAC	Salt  
+PICICT	Gaza  
+PLP	Orlans  
+PODS	Scottsdale New Snowbird  
+PQ	Rio  
+PRASARobMech	Central  
+PReMI	Kolkata  
+ParLearning	Orlando Vancouver  
+PersDB	Riva Istanbul  
+PredictGIS	Redondo  
+PrivDB	Brisbane  
+QDB	Trento New Seattle Istanbul  
+QUALICO	Wroclaw  
+QoSWorkshop	Beijing  
+RA	Cambridge  
+RAAI	Bucharest  
+RABiD	Olsztyn  
+RADIO	wwwradioainet  
+RDA	Osaka  
+RDSS	Snowbird  
+RIS	Exeter  
+ROMAN	Nanjing  
+RSmeetDB	Vienna Prague  
+RSmeetDBs	Toulouse  
+RTIS	Beijing  
+RWVW	Boston  
+Randomized	Bruges  
+RecSysKTL	Como  
+RiTA	Daejeon  
+Robot	Seville  
+RuleML	Stony  
+RuleMLRR	London  
+SABID	Washington Astrophysical Boston  
+SAC	Marrakech Pau Coimbra  
+SAEOpt	Berlin  
+SAI	Sydney  
+SAMI	Graz  
+SASO	University  
+SAT	Melbourne  
+SBBD	Uberlandia Sao Curitiba  
+SBD	Raleigh  
+SBDDE	Bangkok  
+SBDS	Caen  
+SCDM	Washington  
+SCDS	Kuala Yogyakarta  
+SCESM	Jain  
+SCIA	Troms  
+SDA	London  
+SDAAM	Washington  
+SDAM	Emden  
+SDM	Houston San Seattle Istanbul  
+SDMSM	Washington  
+SDS	Bern  
+SEBD	Maratea Venice Roccella Sorrento  
+SERecSys	New  
+SHEIQL	Pisa  
+SI	Europe  
+SIGI	Chennai  
+SIGMOD	Raleigh Scottsdale New Melbourne San  
+SIGMODPODS	Raleigh  
+SIGSPATIAL	Los Redondo  
+SIMBig	Cuzco  
+SIMCA	Bergamo Toulouse  
+SIMCS	Mathematics  
+SIN	Aksaray  
+SIPRO	Dubai  
+SISAP	Toronto Tokyo Glasgow Los  
+SISSY	Columbus  
+SITIS	Kyoto  
+SLIE	Melbourne  
+SLIOIAASAI	Crdoba  
+SMART	Timisoara  
+SMDB	Washington Chicago Brisbane  
+SML	Melbourne  
+SMLIR	Thessaloniki  
+SMMA	Exeter  
+SNAA	UC  
+SNMAM	Cusco  
+SOCC	San  
+SOMOCO	Rome  
+SOTMEU	Vienna  
+SP	Capri  
+SPECOM	Leipzig  
+SR	Liverpool  
+SSCI	Honolulu Athens  
+SSCIGCEC	San  
+SSDBM	Chania  
+SSDM	Riva  
+SSMLIDIWANN	Cadiz  
+SSMLREIWANN	Cadiz  
+SSTD	Seoul Munich  
+STAnalytics	Trieste  
+STIR	Washington  
+SUM	Dayton Marburg Quebec  
+SWEET	New Snowbird  
+SWM	Cambridge  
+SYNASC	Timisoara  
+SYRCoDIS	Moscow Veliky Kazan  
+SafeThings	Delft  
+SeCoP	Suzhou  
+SeMaT	Austin  
+SemDial	Saarbrcken  
+SenSys	Delft  
+Sideways	Madeira  
+Smart	Guangzhou  
+SmartCT	Mlaga  
+SmartData	Chengdu  
+SmartMedDev	Porto  
+SoCC	Santa  
+SoCPaR	VIT  
+SoDAC	Bangkok  
+SoDM	Institut  
+SoDeLIA	Brunei  
+SoEAEE	Vancouver  
+SoGood	Skopje  
+SoICT	NhaTrang  
+SoMePeAS	Aberdeen  
+SoMeRis	Barcelona  
+SocInf	Melbourne  
+SocialNLP	Boston  
+Special	Banff  
+StoryCase	Lyon  
+SwissText	Winterthur  
+TAAI	Taipei  
+TCSP	ClermontFerrand  
+TFML	Krakow  
+TGCICONIP	Kyoto  
+TIC	Toronto  
+TIDM	Dallas  
+TIME	Copenhagen Mons  
+TIR	Lyon  
+TLAD	Manchester  
+TMNZ	Hamilton  
+TPCTC	Seattle  
+TRANSACT	Barcelona  
+TRAP	Rome  
+TSD	Prague  
+TaPP	Heraklion  
+UAI	Sydney  
+UCC	Shanghai  
+UKAIS	Oxford  
+UOII	Riga  
+UrbComp	San Halifax  
+VAAM	Cancun  
+VARVAI	Amsterdam  
+VAST	Montreal  
+VDA	Burlingame  
+VICTA	Jaipur  
+VISAPP	Funchal  
+VLDB	Kohala Istanbul Lago Hangzhou New  
+VLDS	Seattle  
+VOCVLCCVPR	Hawaii  
+VS	Prague  
+WAAE	Melbourne  
+WAAISC	Boston  
+WASMM	Porto  
+WCICSS	Cambridge  
+WCO	Prague  
+WI	Leipzig  
+WICA	Trieste  
+WINVIZNN	Taipei  
+WISA	Lisbon  
+WISDOM	Halifax  
+WISE	Paphos Moscow  
+WISTIPS	Druskininkai  
+WMLI	Barcelona  
+WNUT	Osaka  
+WOD	SaintPetersburg Paris Nantes  
+WOMoCoE	Vienna  
+WOSP	Toronto  
+WOW	Perth  
+WPDM	Genoa  
+WPRSM	Leipzig  
+WSDM	Los Cambridge  
+We	Atlanta  
+WebDB	Scottsdale New Snowbird  
+WiML	Barcelona  
+WoLGA	Vichy  
+Workshop	Las Hammamet  
+XLDB	Menlo  
+XMLDM	Harbin  
+conferenceacronym	conferencelocation  
+exploreWeb	Paphos  
+frontiersQS	Heidelberg  
+iCICS	Irbid Irbid  
+iDSC	Salzburg  
+iSAINLP	HuaHin  
+iThings	Chengdu  
+icSoftComp	Changa  
+miproBIS	Opatija  
+serecsys	Barcelona  
