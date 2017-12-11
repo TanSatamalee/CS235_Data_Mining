@@ -59,16 +59,3 @@ def reduce_cluster(data, k):
 
 
 # --------------------------------------------------------------------
-
-# Runs the entire needed preprocess script.
-def preprocess(k):
-    # Checks to see if the data file that algorithms will use exists.
-    filename = "data.csv"
-    data_file = Path(filename)
-    if not data_file.is_file():
-        rearrange_data(filename)
-
-    df = pd.read_csv(filename)
-    df = reduce_cluster(df, k)
-
-    return df
