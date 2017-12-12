@@ -1,9 +1,6 @@
 import pandas as pd
 import numpy as np
 import math
-import datetime
-from pathlib import Path
-import matplotlib.pyplot as plt
 
 # This function takes the files from MovieLens and transforms the data to a 2D array (row = user, column = movie, value = rating).
 # This stores the new array in a '.csv' file
@@ -25,6 +22,8 @@ def rearrange_data(filename):
 def cos_dist(data1, data2):
     numer = data1.values[0, 1:].dot(data2.values[0, 1:].transpose())
     denom = math.sqrt(np.square(data1.values[0, 1:]).sum() * np.square(data2.values[0, 1:]).sum())
+    if denom == 0:
+        denom += 1
     return float(numer / denom)
 
 # Calculates the distance between two vectors using Euclidean distance.
@@ -46,16 +45,15 @@ def reduce_cluster(data, k):
     for row in data.index.values.tolist():
         temp = []
         for top in top_k:
-            temp.append(cos_dist(data.loc[[row]], data.loc[[top]]))
+            temp.append(euc_dist(data.loc[[row]], data.loc[[top]]))
         clusters[temp.index(min(temp))].append(int(row))
 
     # Averages the cluster points and creates a new dataframe from averages.
     df = pd.DataFrame()
     for c in clusters:
-        df = df.append(data.loc[c, :].iloc[:, 1:].mean().to_frame().transpose(), ignore_index=True)
+        df = df.append(data.loc[c, :].mean().to_frame().transpose(), ignore_index=True)
 
     return df
-
 
 
 # --------------------------------------------------------------------

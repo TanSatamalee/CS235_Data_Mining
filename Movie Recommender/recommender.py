@@ -1,23 +1,19 @@
 import pandas as pd
 import numpy as np
-import math
-import datetime
 import preprocess as pp
 
 # Decomposes given matrix into three other matrices.
 def svd_alg(A):
     # Calculating eigenvalues and vectors from data matrix A.
     eig_temp = np.linalg.eig(np.dot(A.T, A))
-    ###eig = -np.sort(-eig_temp[0])
-    eig = eig_temp[0]
+    eig = np.absolute(eig_temp[0])
 
     # Produce S from the sorted eigenvalues along the diagonal.
-    S = np.sqrt(np.eye(len(eig)) * eig.T)
+    S = np.sqrt(np.diag(eig))
     S_inv = np.linalg.inv(S)
 
     # Produce V from sorting eigenvectors to align with sorted eigenvalues.
     argS = np.argsort(-eig_temp[0])
-    ###V = ((eig_temp[1].T)[argS]).T
     V = eig_temp[1]
 
     # Produce U from the other three matrices.

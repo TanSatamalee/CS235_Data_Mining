@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 import math
-import datetime
 import preprocess as pp
 import recommender as rc
 
@@ -25,33 +24,38 @@ def split_data(d, p):
 	
 	return d.iloc[train], d.iloc[test]
 
-# Given a user, deletes the top n entries the user has rated and returns new user and index of what was deleted.
+# Given a user, deletes the top n entries the user has rated and returns new user and index & rating of what was deleted.
 def corruptor(users, n):
 	deleted_col = []
+	deleted_rate = []
 	for row in users.index.values.tolist():
 		temp = users.loc[row, :].as_matrix()
 		to_delete = temp.argsort()[-n:][::-1]
 		dc = users.columns.values[to_delete]
 		deleted_col.append(dc.tolist())
+		deleted_rate.append(users.loc[row][dc])
 		
 		users.loc[row][dc] = 0
 
-	return users, deleted_col
+	return users, deleted_col, deleted_rate
 
 # Prints and returns a percentage of correct answers for svd and collab given a set of train, test and answers of data.
-def evaluator(train, test, answers):
+def evaluator(train, test, ans_col, ans_rate, alg, k=10):
 	n = 0
-	col_corr = 0
-	svd_corr = 0
+	err = 0
+	if alg == "svd":
+		fxn = rc.svd_recommend
+	else:
+		fxn = rc.collab_recommend
+
 	for row in test.index.values.tolist():
 		user = pd.DataFrame(test.loc[row, :]).transpose()
-		col_res = rc.recommender(train, user, 1, "collab", 10)
-		if col_res[0] == answers[n][0]:
-			col_corr += 1
-		svd_res = rc.recommender(train, user, 1, "svd", 10)
-		if svd_res[0] == answers[n][0]:
-			svd_corr += 1
+		pred = fxn(train, user, k)
+		err += (ans_rate[0][ans_col[n][0]] - pred[ans_col[n][0]]) ** 2
 		n += 1
-	print([float(col_corr / n), float(svd_corr / n)])
+	
+	err = float(math.sqrt(err) / n)
+	print("The error for " + alg + " is: " + str(err))
+	return err
 
 # --------------------------------------------------------------------
