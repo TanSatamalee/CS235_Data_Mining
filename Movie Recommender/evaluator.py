@@ -51,7 +51,7 @@ def evaluator(train, test, ans_col, ans_rate, alg, k=10):
 	for row in test.index.values.tolist():
 		user = pd.DataFrame(test.loc[row, :]).transpose()
 		pred = fxn(train, user, k)
-		err += (ans_rate[0][ans_col[n][0]] - pred[ans_col[n][0]]) ** 2
+		err += (ans_rate[n][ans_col[n][0]] - pred[ans_col[n][0]]) ** 2
 		n += 1
 	
 	err = float(math.sqrt(err) / n)
